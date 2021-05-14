@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdiTYa-JadHav77
-- 👀 I’m interested in Android,Python,AI & ML,java,MERN stack,UI/UX.
+- 👀 I’m interested in Android,Python,AI & ML,java,MERN stack,UI/UX,Ethical Hacking.
 - 🌱 I’m currently in Computer Science Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email: adityajadhav0502@gmail.com
