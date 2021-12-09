@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdiTYa-JadHav77
-- 👀 I’m interested in Python,Data Science,MERN stack,flutter
+- 👀 I’m interested in Data Science,MERN stack.Languages:Python,JS.
 - 🌱 I’m currently in Computer Science Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email: adityajadhav0502@gmail.com
