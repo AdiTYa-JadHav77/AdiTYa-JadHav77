@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AdiTYa-JadHav77
+- 👋 Hi, I’m Aditya Jadhav
 - 👀 I’m interested in Data Science,MERN stack.Languages:Python,JS.
 - 🌱 I’m currently in Computer Science Engineering
 - 💞️ I’m looking to collaborate on ...
